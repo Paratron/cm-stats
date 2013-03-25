@@ -1,4 +1,4 @@
-CanvasMark Stats v 1
+CanvasMark Stats v1
 ======================
 
 This project tries to bring detailed statistics into the CanvasMark 2013 HTML5 benchmark project by Kevin Roast.
@@ -11,7 +11,7 @@ How to use cm-stats
 
 At the very first, you need to include the cm-stats.js file into the website:
 
-<script src="//social-rockstar/cm-stats/cm-stats.min.js">
+    <script src="//social-rockstar/cm-stats/cm-stats.min.js">
 
 ***Heads up!*** This URL does currently not work since the backend scripts are not ready.
 
